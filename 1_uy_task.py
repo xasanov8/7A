@@ -11,4 +11,3 @@ Airoport ochilgan yili: {self.ochilish_yil}
 
 a1 = Airoport("Air №1", 1997)
 a1.get_info()
-# A7
